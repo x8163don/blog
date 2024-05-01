@@ -1,1 +1,5 @@
 theme = 'blowfish'
+
+[services]
+    [services.disqus]
+        shortname = 'disqus_xRE0YDrMlA'

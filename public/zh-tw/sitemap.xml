@@ -6,5 +6,15 @@
     <loc>//localhost:1313/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/"
+    />
   </url>
 </urlset>
