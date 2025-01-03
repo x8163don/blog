@@ -1,6 +1,6 @@
 site:
   name: Bevis Blog
-  site: 'https://x8163don.github.io'
+  site: 'https://x8163don.github.io/blog'
   base: '/'
   trailingSlash: false
 
