@@ -37,7 +37,7 @@ tags:
 
 
 
-![image.png](/uptime-how-to-improve-productivity/image.png)
+![image.png](/blog/uptime-how-to-improve-productivity/image.png)
 
 迴圈的開始到結束，作者稱為生產力5C，從開始到結束會經過五個階段：
 
@@ -63,7 +63,7 @@ tags:
 
 清單的第一個分層是用時間範圍來區分，這樣做的好處是你每一天只需要看一日清單就可以知道要做哪些事情，不會被暫時還不需要關注的事項給干擾
 
-![image 1.png](/uptime-how-to-improve-productivity/image%201.png)
+![image 1.png](/blog/uptime-how-to-improve-productivity/image%201.png)
 
 1. **首要清單**：包含工作和生活上的待辦事項，一個大腦只需要一份清單。
 
@@ -75,19 +75,19 @@ tags:
 
 首要清單的是用來存放所有你必須要做的事情，需要特別留意的是，依據事情的**精力/行動狀態**劃分成不同區域
 
-![image 2.png](/uptime-how-to-improve-productivity/image%202.png)
+![image 2.png](/blog/uptime-how-to-improve-productivity/image%202.png)
 
 ### 一週清單
 
 於週日晚間或週一早上，根據首要清單來建立你的一週清單，如果只有首要清單的話你的注意力很容易就被清單上的其他項目給吸引走，所以我們需要根據首要清單製作一份一週清單，並訂定三個優先事項，確保能夠將大部分的注意力放到優先事項中
 
-![image 3.png](/uptime-how-to-improve-productivity/image%203.png)
+![image 3.png](/blog/uptime-how-to-improve-productivity/image%203.png)
 
 ### 一日清單
 
 一日清單則是根據一週清單建立的，確保每一天的計畫都與整體目標一致，要明確當天必須完成的任務，這些任務應該是絕對優先事項。優先處理最重要或最艱難的工作
 
-![image 4.png](/uptime-how-to-improve-productivity/image%204.png)
+![image 4.png](/blog/uptime-how-to-improve-productivity/image%204.png)
 
 ### 每段時間的價值並不相同
 
@@ -105,23 +105,23 @@ tags:
 
 我會使用 OmniFocus 的 Inbox 來蒐集大多數的待辦事項，因為 OmniFocus 也有手機 App 這樣我隨時有想到什麼要記錄也可以透過手機同步到電腦上，我每天工作結束後會檢查一下 Inbox ，把還沒整理的項目加上 Project 跟 Tags 這樣一來我的 Inbox 整理就算完成
 
-![image 5.png](/uptime-how-to-improve-productivity/image%205.png)
+![image 5.png](/blog/uptime-how-to-improve-productivity/image%205.png)
 
 接著是首要清單，這個清單裡面放了幾乎我想要做的事情，我用 Perspective 功能將所有含有 Main 這個 tag 的項目列出來，方便我可以在這個上面查看，每週五晚上或是週一早上我會挑選這裡的內容然後轉移到一週清單上
 
-![截圖 2024-10-22 上午10.41.17 1.png](/uptime-how-to-improve-productivity/截圖%202024-10-22%20上午10.41.17%201.png)
+![截圖 2024-10-22 上午10.41.17 1.png](/blog/uptime-how-to-improve-productivity/截圖%202024-10-22%20上午10.41.17%201.png)
 
 
 
 一週清單，當週最重要的三個優先任務我會加上 Flag 這樣在這個清單上就可以直接看到最重要的三個項目是什麼，每天工作結束後我會根據這個清單建立明天的一日清單。
 
-![截圖 2024-10-22 上午10.51.23.png](/uptime-how-to-improve-productivity/截圖%202024-10-22%20上午10.51.23.png)
+![截圖 2024-10-22 上午10.51.23.png](/blog/uptime-how-to-improve-productivity/截圖%202024-10-22%20上午10.51.23.png)
 
 
 
 一日清單，這邊會記錄我當天要做的事情，最優先的項目我也會加上 Flag ，我會優先進行有加上 Flag 的項目確保將重要的事情先完成
 
-![截圖 2024-10-22 上午10.55.36.png](/uptime-how-to-improve-productivity/截圖%202024-10-22%20上午10.55.36.png)
+![截圖 2024-10-22 上午10.55.36.png](/blog/uptime-how-to-improve-productivity/截圖%202024-10-22%20上午10.55.36.png)
 
 
 
@@ -153,7 +153,7 @@ Energy 是我做這件事情的場景/精力：
 
 
 
-![image 6.png](/uptime-how-to-improve-productivity/image%206.png)
+![image 6.png](/blog/uptime-how-to-improve-productivity/image%206.png)
 
 
 
