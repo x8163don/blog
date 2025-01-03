@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bevisblog.com/sitemap-index.xml
