@@ -1,5 +1,6 @@
 ---
 publishDate: 2025-01-03
+cover: /uptime-how-to-improve-productivity/image.png
 slug: uptime-how-to-improve-productivity
 author: Bevis
 title: 上線時間管理術 - 如何提高生產力
@@ -7,7 +8,6 @@ excerpt: 「生產力代表你的意圖與行動一致的程度。」透過生�
 category: 讀書心得
 tags:
   - 好書實驗
-ogImage: /uptime-how-to-improve-productivity/image.png
 ---
 
 ## 前言
