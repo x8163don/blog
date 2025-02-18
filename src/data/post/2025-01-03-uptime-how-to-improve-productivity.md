@@ -7,6 +7,7 @@ excerpt: 「生產力代表你的意圖與行動一致的程度。」透過生�
 category: 讀書心得
 tags:
   - 好書實驗
+ogImage: /uptime-how-to-improve-productivity/image.png
 ---
 
 ## 前言
