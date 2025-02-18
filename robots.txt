@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://x8163don.github.io/sitemap-index.xml
+Sitemap: https://heybevis.com/sitemap-index.xml
